@@ -1,2 +1,2 @@
-# golangSourceCodeLearningNotes
-golang源码学习笔记
+# golangLearningNotes
+golang学习笔记
